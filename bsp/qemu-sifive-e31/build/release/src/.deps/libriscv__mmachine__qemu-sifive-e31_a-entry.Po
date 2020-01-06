@@ -1,0 +1,2 @@
+src/libriscv__mmachine__qemu-sifive-e31_a-entry.o: \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/src/entry.S

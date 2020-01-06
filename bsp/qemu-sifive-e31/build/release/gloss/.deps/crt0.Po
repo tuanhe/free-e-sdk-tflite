@@ -1,0 +1,2 @@
+gloss/crt0.o: \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/gloss/crt0.S

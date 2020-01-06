@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/gloss/sys_exit.c \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/metal/shutdown.h
+
+/Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/metal/shutdown.h:

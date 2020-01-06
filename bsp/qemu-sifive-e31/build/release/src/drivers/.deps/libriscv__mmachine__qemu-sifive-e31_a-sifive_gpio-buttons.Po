@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine__qemu-sifive-e31_a-sifive_gpio-buttons.o: \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/src/drivers/sifive_gpio-buttons.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

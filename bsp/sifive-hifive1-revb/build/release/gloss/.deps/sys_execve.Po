@@ -1,0 +1,44 @@
+gloss/sys_execve.o: \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/gloss/sys_execve.c \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/errno.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/errno.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/reent.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/_ansi.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/newlib-nano/newlib.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/_newlib_version.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/config.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/machine/ieeefp.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/features.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/_types.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/machine/_types.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/machine/_default_types.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/lock.h
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/errno.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/errno.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/reent.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/_ansi.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/newlib-nano/newlib.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/_newlib_version.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/config.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/machine/ieeefp.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/features.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/_types.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/machine/_types.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/machine/_default_types.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/riscv64-unknown-elf/include/sys/lock.h:

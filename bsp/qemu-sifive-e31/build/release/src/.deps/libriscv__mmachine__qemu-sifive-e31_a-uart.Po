@@ -1,0 +1,11 @@
+src/libriscv__mmachine__qemu-sifive-e31_a-uart.o: \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/src/uart.c \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/metal/uart.h \
+ /Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/metal/interrupt.h \
+ /Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h
+
+/Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/metal/uart.h:
+
+/Users/i/Documents/Risc-V/freedom-e-sdk/freedom-metal/metal/interrupt.h:
+
+/Users/i/Documents/Risc-V/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-apple-darwin/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h:
